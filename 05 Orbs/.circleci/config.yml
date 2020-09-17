@@ -2,6 +2,7 @@ version: 2.1
 
 orbs:
   # Add Orb here
+  ruby: circleci/ruby@2.3.8
 
 jobs:
   build:
